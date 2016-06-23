@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(visualization_marker_tutorials)
+project(arrow_marker)
 
 find_package(catkin REQUIRED COMPONENTS roscpp visualization_msgs)
 

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <package>
-  <name>visualization_marker_tutorials</name>
+  <name>arrow_marker</name>
   <version>0.10.1</version>
   <description>The visulalization_marker_tutorials package</description>
 
-  <maintainer email="william@osrfoundation.org">William Woodall</maintainer>
+  <maintainer email="mostafa.gomaa@rwth-aachen.de">Mostafa Gomaa</maintainer>
 
   <license>BSD</license>
   <url type="website">http://ros.org/wiki/visualization_marker_tutorials</url>
